@@ -1,0 +1,31 @@
+c:\users\hp\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\hp\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\hp\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\hp\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\temp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\temp\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\temp\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\temp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\temp\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\temp\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\hp\Downloads\Calculator_1.1\Calculator_1.1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\hp\Downloads\Calculator_1.1\Calculator_1.1\Calculator\bin\Debug\Calculator.exe
+C:\Users\hp\Downloads\Calculator_1.1\Calculator_1.1\Calculator\bin\Debug\Calculator.pdb
+C:\Users\hp\Downloads\Calculator_1.1\Calculator_1.1\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\hp\Downloads\Calculator_1.1\Calculator_1.1\Calculator\obj\Debug\Calculator.exe
+C:\Users\hp\Downloads\Calculator_1.1\Calculator_1.1\Calculator\obj\Debug\Calculator.pdb
+C:\Users\hp\Desktop\Calculator\Calculator_1.3\Calculator_1.3\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\hp\Desktop\Calculator\Calculator_1.3\Calculator_1.3\Calculator\bin\Debug\Calculator.exe
+C:\Users\hp\Desktop\Calculator\Calculator_1.3\Calculator_1.3\Calculator\bin\Debug\Calculator.pdb
+C:\Users\hp\Desktop\Calculator\Calculator_1.3\Calculator_1.3\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Calculator\Calculator_1.3\Calculator_1.3\Calculator\obj\Debug\Calculator.exe
+C:\Users\hp\Desktop\Calculator\Calculator_1.3\Calculator_1.3\Calculator\obj\Debug\Calculator.pdb
+G:\Files from old HD\Calculator\Calculator_1.3\Calculator_1.3\Calculator\bin\Debug\Calculator.exe.config
+G:\Files from old HD\Calculator\Calculator_1.3\Calculator_1.3\Calculator\bin\Debug\Calculator.exe
+G:\Files from old HD\Calculator\Calculator_1.3\Calculator_1.3\Calculator\bin\Debug\Calculator.pdb
+G:\Files from old HD\Calculator\Calculator_1.3\Calculator_1.3\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\Files from old HD\Calculator\Calculator_1.3\Calculator_1.3\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\Files from old HD\Calculator\Calculator_1.3\Calculator_1.3\Calculator\obj\Debug\Calculator.exe
+G:\Files from old HD\Calculator\Calculator_1.3\Calculator_1.3\Calculator\obj\Debug\Calculator.pdb
